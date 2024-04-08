@@ -26,4 +26,4 @@ spring:
 logging:
   level:
     '[com.example.bank]': DEBUG
-    '[org.hibernate.orm.jdbc.bind]': TRACE
+    '[org.hibernate.orm.jdbc.bind]': TRACE # ? 에 바인딩 되는 실제 값들을 보여줌
